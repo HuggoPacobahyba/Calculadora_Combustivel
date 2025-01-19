@@ -1,5 +1,5 @@
 # Calculadora de Combustível
-Esse projeto é um aplicativo Androido nativo devenvolvido com a linguagem de programação Kotlin, tem com principal funcionalidade fazer o cálculo de combustível e mostrar o resultado na última tela.
+Esse projeto é um aplicativo Android nativo devenvolvido com a linguagem de programação Kotlin, tem com principal funcionalidade fazer o cálculo de combustível e mostrar o resultado na última tela.
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
